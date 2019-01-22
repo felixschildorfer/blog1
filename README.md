@@ -9,6 +9,7 @@ Below we demonstrate some data markdown (.dmd) capabilities. See https://github.
 id,first_name,last_name
 1,John,Doe
 2,Mary,Jane
+3,Jake,FromStateFarm
 ```
 Note that specifying `{csv}` (with braces) will also work.
 
